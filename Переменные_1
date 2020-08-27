@@ -1,0 +1,26 @@
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            byte counter;
+
+            int numNucleus;
+            uint numHydrion;
+            short numAtom;
+            long numElectron;
+
+            float percOccptn;
+            double ExactPercOccptn;
+
+            char classAtom;
+
+            string hydrion;
+
+            bool enoughOccptn;
+        }
+    }
+}
